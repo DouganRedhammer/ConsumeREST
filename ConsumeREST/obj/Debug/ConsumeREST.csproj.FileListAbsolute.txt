@@ -1,0 +1,6 @@
+c:\users\da_mor2\documents\visual studio 2013\Projects\ConsumeREST\ConsumeREST\bin\Debug\ConsumeREST.exe.config
+c:\users\da_mor2\documents\visual studio 2013\Projects\ConsumeREST\ConsumeREST\bin\Debug\ConsumeREST.exe
+c:\users\da_mor2\documents\visual studio 2013\Projects\ConsumeREST\ConsumeREST\bin\Debug\ConsumeREST.pdb
+c:\users\da_mor2\documents\visual studio 2013\Projects\ConsumeREST\ConsumeREST\obj\Debug\ConsumeREST.exe
+c:\users\da_mor2\documents\visual studio 2013\Projects\ConsumeREST\ConsumeREST\obj\Debug\ConsumeREST.pdb
+c:\users\da_mor2\documents\visual studio 2013\Projects\ConsumeREST\ConsumeREST\bin\Debug\Newtonsoft.Json.dll
